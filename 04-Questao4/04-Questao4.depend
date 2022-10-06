@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665062942 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\04-questao4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ler_e_operar_h.h"
+
+1665063129 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\04-questao4\ler_e_operar_h.h
+
