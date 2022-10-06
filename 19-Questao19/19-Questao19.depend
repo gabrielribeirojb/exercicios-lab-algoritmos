@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665094163 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\19-questao19\main.c
+	<stdio.h>
+	<stdlib.h>
+	"informa_valor_vetor.h"
+
+1665094186 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\19-questao19\informa_valor_vetor.h
+
