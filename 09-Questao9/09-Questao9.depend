@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665069423 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\09-questao9\main.c
+	<stdio.h>
+	<stdlib.h>
+	"calcula_media_h.h"
+
+1665069461 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\09-questao9\calcula_media_h.h
+
