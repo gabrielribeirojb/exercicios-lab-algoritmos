@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665089258 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\16-questao16\main.c
+	<stdio.h>
+	<stdlib.h>
+	"fatorial_h.h"
+
+1665089197 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\16-questao16\fatorial_h.h
+
