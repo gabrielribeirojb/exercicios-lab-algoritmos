@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665098145 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\13-questao13\main.c
+	<stdio.h>
+	<stdlib.h>
+	"impares_calcula_h.h"
+
+1665098311 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\13-questao13\impares_calcula_h.h
+
