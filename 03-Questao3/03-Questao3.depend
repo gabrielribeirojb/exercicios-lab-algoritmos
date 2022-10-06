@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665060419 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\03-questao3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conversao_de_base_h.h"
+
+1665060443 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\03-questao3\conversao_de_base_h.h
+
