@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665070998 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\12-questao12\main.c
+	<stdio.h>
+	<stdlib.h>
+	"checa_idades_h.h"
+
+1665070917 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\12-questao12\checa_idades_h.h
+
