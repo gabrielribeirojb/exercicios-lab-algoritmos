@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665093302 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\18-questao18\main.c
+	<stdio.h>
+	<stdlib.h>
+	"notas_medias_h.h"
+
+1665093387 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\18-questao18\notas_medias_h.h
+	<stdio.h>
+	<stdlib.h>
+
