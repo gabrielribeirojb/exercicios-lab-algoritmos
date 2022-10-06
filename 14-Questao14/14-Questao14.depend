@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665073027 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\14-questao14\main.c
+	<stdio.h>
+	<stdlib.h>
+	"converte_temperatura.h"
+
+1665073018 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\14-questao14\converte_temperatura.h
+
