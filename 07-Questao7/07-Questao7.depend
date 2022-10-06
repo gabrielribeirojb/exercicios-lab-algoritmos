@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665097386 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\07-questao7\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operacoes_media.h"
+
+1665097349 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\07-questao7\operacoes_media.h
+
