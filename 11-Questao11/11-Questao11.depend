@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665070513 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\11-questao11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"quant_alunos.h"
+
+1665070528 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\11-questao11\quant_alunos.h
+
