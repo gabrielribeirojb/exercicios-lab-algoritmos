@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1665057048 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\01-questao1\main.c
+	<stdlib.h>
+	<stdio.h>
+	"operacoes_mat_h.h"
+
+1665056422 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\01-questao1\operacoes_mat_h.h
+	<math.h>
+
