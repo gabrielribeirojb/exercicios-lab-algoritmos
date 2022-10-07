@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665160305 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\20-questao20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
