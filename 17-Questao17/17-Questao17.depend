@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1665182156 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\17-questao17\main.c
+	<stdio.h>
+	<stdlib.h>
+	"soma_impares_h.h"
+
+1665183263 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\17-questao17\soma_impares_h.h
+
