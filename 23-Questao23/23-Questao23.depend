@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1665105920 source:c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\23-questao23\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inverte_array_h.h"
+
+1665105240 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\23-questao23\inverte_numeros_array_h.h
+
+1665105958 c:\users\gaabr\onedrive\Área de trabalho\workspacec\06-exercicioslabalgoritmos\23-questao23\inverte_array_h.h
+
