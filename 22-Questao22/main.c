@@ -1,6 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "operacoes_vetor_h.h"
+/*
+Desenvolva um programa que leia dez números do tipo inteiro ao usuário armazene esses
+dez números em um vetor. Para os valores dos elementos inseridos nas posições pares desse
+vetor, calcule o somatório deles, para os demais calcule a subtração desses valores. Em
+seguida, o programa deverá apresentar na tela os resultados.
+*/
 
 int main(){
 

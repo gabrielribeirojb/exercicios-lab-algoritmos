@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "informa_valor_vetor.h"
+/*
+Escreva um programa para informar o maior elemento de um vetor de 5 posições do tipo
+inteiro.
+*/
 
 int main()
 {

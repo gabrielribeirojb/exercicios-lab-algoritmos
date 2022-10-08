@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "operacoes_h.h"
+/*
+Faça um programa que lê um conjunto de 10 valores inteiros e verifica se algum dos
+valores é igual a média dos mesmos.
+*/
 
 int main()
 {

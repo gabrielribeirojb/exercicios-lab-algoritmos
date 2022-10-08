@@ -1,6 +1,12 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include "operacoes_mat_h.h"
+/*
+Faça um programa que solicite 2 números e informe: a soma dos números, o produto do
+primeiro número pelo quadrado do segundo, o quadrado do primeiro número, a raiz quadrada
+da soma dos quadrados, o seno da diferença do primeiro número pelo segundo e O módulo
+do primeiro número
+*/
 
 int main()
 {

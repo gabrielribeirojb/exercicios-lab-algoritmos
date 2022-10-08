@@ -1,5 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
+/*
+Escreva um programa que imprime a tabela ASCII (código decimal, código hexa, caractere)
+para os códigos de 0 a 127.
+*/
 
 int main()
 {

@@ -1,5 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
+/*
+Escreva um programa que leia doze números do tipo inteiro ao usuário. Separe esses
+números em pares e ímpares e os armazenem em dois outros vetores separando pares e
+ímpares, exibindo os resultados na tela.
+*/
 
 int main()
 {

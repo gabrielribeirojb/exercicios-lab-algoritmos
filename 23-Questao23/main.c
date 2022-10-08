@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "inverte_array_h.h"
+/*
+Escreva um programa que solicite seis números do tipo inteiro ao usuário e os armazene
+em um vetor, depois o programa deverá apresentar na tela os números na ordem inversa do
+qual foram digitados.
+*/
 
 int main()
 {

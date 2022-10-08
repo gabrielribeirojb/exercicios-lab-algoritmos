@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include "par_ou_impar.h"
+/*
+Faça um programa que mostre todos os números pares existentes entre 1 e 50.
+*/
 
 int main()
 {
